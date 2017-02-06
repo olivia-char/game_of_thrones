@@ -1,0 +1,22 @@
+body{
+	width: 100%;
+	background-color: silver;
+}
+h1{
+	text-align: center;
+}
+.house_box{
+	padding: 10px;
+}
+img{
+	display: inline-block;
+	border: 5px solid black;
+}
+img:first-child{
+	margin-left: 33px;
+}
+#info{
+	width: 700px;
+	height: 300px;
+	margin-left: 20px; 
+}
